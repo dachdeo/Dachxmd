@@ -1,8 +1,8 @@
 
 {
-  "name": "FLASH-MD-V2.5",
+  "name": "DACHXMD",
   "description": "A WhatsApp bot powered by Baileys.",
-  "repository": "https://github.com/franceking1/FLASH-MD-V2",
+  "repository": "https://github.com/dachdeo/Dachxmd",
   "stack": "heroku-24",
   "scripts": {
     "postdeploy": "echo 'Deployment complete!'"
